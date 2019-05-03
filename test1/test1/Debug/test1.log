@@ -1,0 +1,11 @@
+﻿生成启动时间为 2018/10/31 21:08:48。
+     1>项目“G:\MJX\C\test1\test1\test1.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         F:\软件库\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze /analyze:plugin"F:\软件库\VC\\bin\localespc.dll" /errorReport:prompt   /analyze:quiet "源.cpp"
+         源.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “源.cpp”: No such file or directory
+     1>已完成生成项目“G:\MJX\C\test1\test1\test1.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.77

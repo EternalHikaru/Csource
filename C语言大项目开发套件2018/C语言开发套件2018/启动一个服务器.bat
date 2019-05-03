@@ -1,0 +1,1 @@
+start cmd /k "cd win-server/src&&server"

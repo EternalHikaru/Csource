@@ -1,0 +1,26 @@
+﻿生成启动时间为 2018/9/25 16:41:00。
+     1>项目“G:\MJX\C\自动出题系统（低级）\自动出题系统（低级）\自动出题系统（低级）.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\软件库\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>g:\mjx\c\自动出题系统（低级）\自动出题系统（低级）\源.cpp(12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>g:\mjx\c\自动出题系统（低级）\自动出题系统（低级）\源.cpp(13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>g:\mjx\c\自动出题系统（低级）\自动出题系统（低级）\源.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\软件库\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>g:\mjx\c\自动出题系统（低级）\自动出题系统（低级）\源.cpp(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\软件库\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>g:\mjx\c\自动出题系统（低级）\自动出题系统（低级）\源.cpp(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\软件库\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>g:\mjx\c\自动出题系统（低级）\自动出题系统（低级）\源.cpp(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\软件库\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>g:\mjx\c\自动出题系统（低级）\自动出题系统（低级）\源.cpp(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\软件库\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>g:\mjx\c\自动出题系统（低级）\自动出题系统（低级）\源.cpp(54): warning C4717: “main”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+       Link:
+         F:\软件库\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\MJX\C\自动出题系统（低级）\Debug\自动出题系统（低级）.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\MJX\C\自动出题系统（低级）\Debug\自动出题系统（低级）.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\MJX\C\自动出题系统（低级）\Debug\自动出题系统（低级）.lib" /MACHINE:X86 "Debug\源.obj"
+         自动出题系统（低级）.vcxproj -> G:\MJX\C\自动出题系统（低级）\Debug\自动出题系统（低级）.exe
+     1>已完成生成项目“G:\MJX\C\自动出题系统（低级）\自动出题系统（低级）\自动出题系统（低级）.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.71

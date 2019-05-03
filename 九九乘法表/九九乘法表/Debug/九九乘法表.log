@@ -1,0 +1,12 @@
+﻿生成启动时间为 2018/10/3 12:32:56。
+     1>项目“G:\MJX\C\九九乘法表\九九乘法表\九九乘法表.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\软件库\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>g:\mjx\c\九九乘法表\九九乘法表\源.cpp(23): error C2084: 函数“int main(void)”已有主体
+                 g:\mjx\c\九九乘法表\九九乘法表\源.cpp(3) : 参见“main”的前一个定义
+     1>已完成生成项目“G:\MJX\C\九九乘法表\九九乘法表\九九乘法表.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.18
